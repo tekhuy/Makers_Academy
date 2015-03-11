@@ -8,37 +8,37 @@ Many thanks to [Tim Scully](https://github.com/Scully87) for the original design
 Pre-Course
 -----------
 
-  - [ ] [Introduction](https://github.com/makersacademy/pre_course/blob/master/introduction.md)
-  - [ ] [Expectations](https://github.com/makersacademy/pre_course/blob/master/you.md)
-  - [ ] [Success?](https://github.com/makersacademy/pre_course/blob/master/success.md)
-  - [ ] [Transparency, Effort and Compassion](https://github.com/makersacademy/pre_course/blob/master/tec.md)
-  - [ ] [Command Line](https://github.com/makersacademy/pre_course/blob/master/command_line.md)
+  - [x] [Introduction](https://github.com/makersacademy/pre_course/blob/master/introduction.md)
+  - [x] [Expectations](https://github.com/makersacademy/pre_course/blob/master/you.md)
+  - [x] [Success?](https://github.com/makersacademy/pre_course/blob/master/success.md)
+  - [x] [Transparency, Effort and Compassion](https://github.com/makersacademy/pre_course/blob/master/tec.md)
+  - [x] [Command Line](https://github.com/makersacademy/pre_course/blob/master/command_line.md)
 
         - [Walkthrough](https://github.com/makersacademy/pre_course/blob/master/pills/command_line.md)
         - Exercises(https://github.com/makersacademy/pre_course/blob/master/exercises/command_line_exercises.md)
 
-  - [ ] [Unixoid Challenge](https://github.com/makersacademy/unixoid-challenge) (Friday Challenge)
+  - [x] [Unixoid Challenge](https://github.com/makersacademy/unixoid-challenge) (Friday Challenge)
 
-  - [ ] [Version Control (git)](https://github.com/makersacademy/pre_course/blob/master/version_control.md)
+  - [x] [Version Control (git)](https://github.com/makersacademy/pre_course/blob/master/version_control.md)
 
         - Walkthrough
         - Exercises
 
-  - [ ] [Octocat Challenge](https://github.com/makersacademy/octocat_challenge) (Friday Challenge)
+  - [x] [Octocat Challenge](https://github.com/makersacademy/octocat_challenge) (Friday Challenge)
 
         - Github Practice
 
-  - [ ] [Ruby](https://github.com/makersacademy/pre_course/blob/master/ruby.md)
+  - [x] [Ruby](https://github.com/makersacademy/pre_course/blob/master/ruby.md)
 
         - Exercises from links
         - Makers' Pills
         - Makers' Quizlet/Memrise
 
-  - [ ] [Student Directory](https://github.com/makersacademy/pre_course/blob/master/student_directory.md)
+  - [x] [Student Directory](https://github.com/makersacademy/pre_course/blob/master/student_directory.md)
 
         - First Project
 
-  - [ ] Useful Links:
+  - [x] Useful Links:
 
     - [Try Git](https://try.github.io/levels/1/challenges/1)
     - [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
@@ -58,9 +58,9 @@ Week 1 (OO Ruby)
 
 ####Projects:
 
-  - [ ] Introduction
+  - [x] Introduction
 
-  - [ ] [Boris Bikes](https://github.com/makersacademy/course/blob/master/boris_bikes.md) (Weekday Project)
+  - [x] [Boris Bikes](https://github.com/makersacademy/course/blob/master/boris_bikes.md) (Weekday Project)
 
         - CRC - Class Responsibility Collaboration Cards
         - TDD - Test Driven Development
@@ -70,9 +70,9 @@ Week 1 (OO Ruby)
         - RSpec - Testing framework
         - Chicago vs London Testing Styles
 
-  - [ ] [Airport (Architect Badge)](https://github.com/makersacademy/airport-challenge) (Friday Challenge)
+  - [x] [Airport (Architect Badge)](https://github.com/makersacademy/airport-challenge) (Friday Challenge)
 
-![Architect](images/badges/Architect_thumb.jpg)
+![Architect](./images/badges/Architect_thumb.jpg)
 
 
 Week 2 (OO Ruby in Teams)
@@ -100,7 +100,7 @@ Week 2 (OO Ruby in Teams)
 
         - Reimplementing the Inject method
 
-![Rubyist](images/badges/Rubyist_thumb.jpg)
+![Rubyist](./images/badges/Rubyist_thumb.jpg)
 
 Week 3 (Web Apps in Ruby Using Sinatra)
 ---------
@@ -127,7 +127,7 @@ Week 3 (Web Apps in Ruby Using Sinatra)
 
         - Using knowledge from weekday project to create a version of RPS in the browser
 
-![Ronin](images/badges/Ronin_thumb.jpg)
+![Ronin](./images/badges/Ronin_thumb.jpg)
 
 Week 4 (Database Web Apps in Ruby Using Sinatra)
 --------
@@ -152,7 +152,7 @@ Week 4 (Database Web Apps in Ruby Using Sinatra)
 
         - Creating a Twitter clone using databases.
 
-![Data](images/badges/Data_thumb.jpg)
+![Data](./images/badges/Data_thumb.jpg)
 
 Week 5 (JavaScript Core)
 ---------
@@ -175,7 +175,7 @@ Week 5 (JavaScript Core)
 
         - Creating a ten pin bowling scorer in Javascript
 
-![Sentry](images/badges/Sentry_thumb.jpg)
+![Sentry](./images/badges/Sentry_thumb.jpg)
 
 Week 6 (Lab Week)
 --------
@@ -208,7 +208,7 @@ Week 7 (Node)
   - [ ] [Ruby Refresher](https://github.com/makersacademy/ruby-refresher)
         - A brush up on your ruby skills
 
-![Sentry](images/badges/Sentry_thumb.jpg)
+![Sentry](./images/badges/Sentry_thumb.jpg)
 
 Week 8 (Makerthon)
 --------
@@ -271,5 +271,3 @@ Week 10 + 11
 
 Week 12
 ---------
-
- 
